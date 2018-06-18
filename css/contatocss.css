@@ -61,3 +61,71 @@ height: 35px;
   margin-left: 850px;
 
 }
+@media screen and (max-width: 600px) 
+{
+h1#cont{	
+	position: relative;
+	color: #282828;
+	margin-left: 20px; 
+	margin-top: 430px;
+	font-size: 3.6em;
+	font-family: 'Lato';
+	font-weight: 300;
+
+}
+
+p{	
+	font-family: 'Source Sans Pro', sans-serif;
+  text-indent: 1.5em;
+position: relative;
+	margin-top: 20px;
+	color: #282828;
+	margin-left: 20px;
+	margin-right: 0px;
+	font-size: 1.2em;
+
+
+}
+
+#redes{
+	  text-indent: 1.5em;
+
+position: relative;
+	margin-top: 20px;;
+  margin-left: 20px;
+}
+#insta
+{
+	position: relative;
+	    z-index: 10;
+
+margin-top: 20px;
+width: 35px;
+height: 35px;
+  margin-left: 40px;
+
+}
+
+#pint
+{
+position: relative;
+	    z-index: 10;
+
+margin-top: 20px;
+width: 35px;
+height: 35px;
+  margin-left: 50px;
+
+}
+#twit
+{
+position: relative;
+	    z-index: 10;
+
+margin-top: 20px;
+width: 35px;
+height: 35px;
+  margin-left: 50px;
+
+}
+}
